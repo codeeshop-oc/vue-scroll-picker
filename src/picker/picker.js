@@ -1,4 +1,4 @@
-import "./picker.scss"
+// import "./picker.scss"
 
 
 function debounce(handle, delay) {

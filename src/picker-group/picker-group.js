@@ -1,4 +1,4 @@
-import "./picker-group.scss"
+// import "./picker-group.scss"
 
 
 export default {
